@@ -11,7 +11,7 @@ export default async function Index() {
     <div className={styles.page}>
       <Component
         title="Pemandangan"
-        className="flex flex-col justify-center items-center bg-blue w-50"
+        className="flex flex-col justify-center items-center w-screen h-screen"
         img="https://placehold.co/600x400"
       />
       <div className="wrapper">
